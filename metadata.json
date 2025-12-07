@@ -1,0 +1,7 @@
+{
+  "name": "LocalLore",
+  "description": "AI-powered discovery platform for authentic, off-the-beaten-path travel experiences using Google Maps grounding.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
